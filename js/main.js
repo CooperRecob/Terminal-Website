@@ -4,21 +4,7 @@ var rootAccess = false;
 
 var root = {
     "about.txt": "My name is cooper recob",
-    "contact.txt": 'You can contact me at:\n<a href="crecob1@gmail.com">crecob1@gmail.com</a>',
-    "projects": projects = {
-        "battleship.java": 'You can see it on github <a href="https://github.com/KingOfCubes1/Main/tree/main/edu/project/battleship">here</a>',
-        "chess.java": 'You can see it on github <a href="https://github.com/KingOfCubes1/Main/tree/main/edu/project/chess">here</a>',
-        "minesweeper.java": 'You can see it on github <a href="https://github.com/KingOfCubes1/Main/tree/main/edu/project/minesweeper">here</a>',
-        "Casino_Games": casinogames = {
-            "blackjack.java": 'You can see it on github <a href="https://github.com/KingOfCubes1/Main/tree/main/edu/project/casino/blackjack">here</a>',
-            "craps.java": 'You can see it on github <a href="https://github.com/KingOfCubes1/Main/blob/main/edu/project/casino/craps">here</a>',
-            "roulette.java": 'You can see it on github <a href="https://github.com/KingOfCubes1/Main/tree/main/edu/project/casino/roulette">here</a>'
-        },
-        "APCS_Projects": apcsprojects = {
-            "pokemonFinal.java": 'You can see it on github <a href="https://github.com/KingOfCubes1/Main/tree/main/edu/apcs/pokemonProject">here</a>',
-            "sudoku.java": 'You can see it on github <a href="https://github.com/KingOfCubes1/Main/blob/main/edu/apcs/finalProject">here</a>'
-        }
-    }
+    "contact.txt": 'You can contact me at:\n<a href="crecob1@gmail.com">crecob1@gmail.com</a>'
 };
 
 var currentDir = root;
